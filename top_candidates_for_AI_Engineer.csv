@@ -1,0 +1,483 @@
+address,career_objective,skills,educational_institution_name,degree_names,passing_years,educational_results,result_types,major_field_of_studies,professional_company_names,company_urls,start_dates,end_dates,related_skils_in_job,positions,locations,responsibilities,extra_curricular_activity_types,extra_curricular_organization_names,extra_curricular_organization_links,role_positions,languages,proficiency_levels,certification_providers,certification_skills,online_links,issue_dates,expiry_dates,job_position_name,educationaL_requirements,experiencere_requirement,age_requirement,responsibilities.1,skills_required,matched_score,resume_text,cleaned_resume,predicted_score
+,I seek to join a dynamic firm where my attention to detail and creative professional services can be valuable.,"['Microsoft Office Suite', 'Dynamic AX', 'Access', 'Excel', 'PowerPoint', 'Word', 'Microsoft Teams', 'Oracle', 'PeopleSoft', 'Sales Force', 'SAP', 'Jira', 'SharePoint', 'Gantt Chart Scheduler', 'strong written and verbal communication skills', 'project management lifecycle', 'Streamline', 'ad', 'advertisements', 'advertising', 'ad copy', 'agile', 'automation', 'billing', 'budgets', 'cable', 'hardware', 'client', 'clients', 'database', 'engineering projects', 'financial', 'focus', 'inventory', 'leadership', 'managing', 'market trends', 'processes', 'project management', 'proposals', 'real time', 'reporting', 'Sales', 'scheduling', 'verbal communication skills', 'workbench', 'written communication skills']",['Oakland University'],['Bachelor of Arts'],['05/2015'],['N/A'],['N/A'],['Communication'],"['Company Name', 'Company Name', 'Company Name']","['N/A', 'N/A', 'N/A']","['05/2015', '07/2017', '02/2010']","['07/2017', '03/2017', '05/2015']","[['project management', 'client relationship', 'sales processes', 'data automation', 'agile methodology', 'Microsoft AX 365'], ['project management', 'client relationship', 'sales processes', 'data automation', 'agile methodology', 'Microsoft AX 365'], ['advertising', 'client relations', 'inventory management', 'technical procedures', 'problem-solving']]","['Engineering Project Manager', 'Sr. Project Manager', 'Sr. Traffic Coordinator Ad Manager']","['City, State', 'City, State', 'City, State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.85,"I seek to join a dynamic firm where my attention to detail and creative professional services can be valuable. ['Microsoft Office Suite', 'Dynamic AX', 'Access', 'Excel', 'PowerPoint', 'Word', 'Microsoft Teams', 'Oracle', 'PeopleSoft', 'Sales Force', 'SAP', 'Jira', 'SharePoint', 'Gantt Chart Scheduler', 'strong written and verbal communication skills', 'project management lifecycle', 'Streamline', 'ad', 'advertisements', 'advertising', 'ad copy', 'agile', 'automation', 'billing', 'budgets', 'cable', 'hardware', 'client', 'clients', 'database', 'engineering projects', 'financial', 'focus', 'inventory', 'leadership', 'managing', 'market trends', 'processes', 'project management', 'proposals', 'real time', 'reporting', 'Sales', 'scheduling', 'verbal communication skills', 'workbench', 'written communication skills'] ['Oakland University'] ['Bachelor of Arts'] ['Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",seek join dynamic firm attention detail creative professional services valuable microsoft office suite dynamic ax access excel powerpoint word microsoft teams oracle peoplesoft sales force sap jira sharepoint gantt chart scheduler strong written verbal communication skills project management lifecycle streamline ad advertisements advertising ad copy agile automation billing budgets cable hardware client clients database engineering projects financial focus inventory leadership managing market trends processes project management proposals real time reporting sales scheduling verbal communication skills workbench written communication skills oakland university bachelor arts company name company name company name python r java tensorflow pytorch scikitlearn,0.971867020184027
+,I seek to join a dynamic firm where my attention to detail and creative professional services can be valuable.,"['Microsoft Office Suite', 'Dynamic AX', 'Access', 'Excel', 'PowerPoint', 'Word', 'Microsoft Teams', 'Oracle', 'PeopleSoft', 'Sales Force', 'SAP', 'Jira', 'SharePoint', 'Gantt Chart Scheduler', 'strong written and verbal communication skills', 'project management lifecycle', 'Streamline', 'ad', 'advertisements', 'advertising', 'ad copy', 'agile', 'automation', 'billing', 'budgets', 'cable', 'hardware', 'client', 'clients', 'database', 'engineering projects', 'financial', 'focus', 'inventory', 'leadership', 'managing', 'market trends', 'processes', 'project management', 'proposals', 'real time', 'reporting', 'Sales', 'scheduling', 'verbal communication skills', 'workbench', 'written communication skills']",['Oakland University'],['Bachelor of Arts'],['05/2015'],['N/A'],['N/A'],['Communication'],"['Company Name', 'Company Name', 'Company Name']","['N/A', 'N/A', 'N/A']","['05/2015', '07/2017', '02/2010']","['07/2017', '03/2017', '05/2015']","[['project management', 'client relationship', 'sales processes', 'data automation', 'agile methodology', 'Microsoft AX 365'], ['project management', 'client relationship', 'sales processes', 'data automation', 'agile methodology', 'Microsoft AX 365'], ['advertising', 'client relations', 'inventory management', 'technical procedures', 'problem-solving']]","['Engineering Project Manager', 'Sr. Project Manager', 'Sr. Traffic Coordinator Ad Manager']","['City, State', 'City, State', 'City, State']","Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,,,,,,,,,,,Intern (Generative AI Engineering - 2D/3D Image Generation),Bachelor of Science (BSc),,Age 20 to 35 years,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,0.85,"I seek to join a dynamic firm where my attention to detail and creative professional services can be valuable. ['Microsoft Office Suite', 'Dynamic AX', 'Access', 'Excel', 'PowerPoint', 'Word', 'Microsoft Teams', 'Oracle', 'PeopleSoft', 'Sales Force', 'SAP', 'Jira', 'SharePoint', 'Gantt Chart Scheduler', 'strong written and verbal communication skills', 'project management lifecycle', 'Streamline', 'ad', 'advertisements', 'advertising', 'ad copy', 'agile', 'automation', 'billing', 'budgets', 'cable', 'hardware', 'client', 'clients', 'database', 'engineering projects', 'financial', 'focus', 'inventory', 'leadership', 'managing', 'market trends', 'processes', 'project management', 'proposals', 'real time', 'reporting', 'Sales', 'scheduling', 'verbal communication skills', 'workbench', 'written communication skills'] ['Oakland University'] ['Bachelor of Arts'] ['Company Name', 'Company Name', 'Company Name']  nan",seek join dynamic firm attention detail creative professional services valuable microsoft office suite dynamic ax access excel powerpoint word microsoft teams oracle peoplesoft sales force sap jira sharepoint gantt chart scheduler strong written verbal communication skills project management lifecycle streamline ad advertisements advertising ad copy agile automation billing budgets cable hardware client clients database engineering projects financial focus inventory leadership managing market trends processes project management proposals real time reporting sales scheduling verbal communication skills workbench written communication skills oakland university bachelor arts company name company name company name nan,0.960392410809027
+,Experienced product development Engineer and manager able to collaborate with cross functional team as well as customers and sales to bring brand new offerings to new markets. Skilled at managing cross functional team for continuous improvements and meeting project deadlines. Offering 6 years of experience in the field.,"['Microsoft Office', 'Microsoft Project', 'Product development', 'Quality', 'Research', 'Six Sigma Green Belt', 'Solid Works', 'Visio', 'Prioritization', 'Personnel management', 'Critical thinking skills', 'Team management', 'Analyst', 'Agency', 'Consulting', 'Cost analysis', 'Critical thinking', 'Designing', 'Dialysis', 'Direction', 'Develop drug', 'Functional', 'IIa', 'ISO', 'Leadership', 'Market and development', 'Design process', 'Product management', 'Researching', 'Sales', 'Six Sigma', 'Validation']",['Temple University'],['Bachelor of Science'],['05/2013'],['N/A'],['N/A'],['Mechanical Engineering'],"['N/A', 'Company Name', 'Company Name']","[None, None, None]","['03/2018', '03/2017', '06/2013']","['Current', '03/2018', '03/2017']","[['Team management', 'Personnel management', 'Quality', 'Product development', 'Research', 'ISO', 'Leadership'], ['Design process', 'Validation', 'Solid Works', 'ISO', 'Product management', 'Quality', 'Research'], ['Design process', 'Validation', 'Research', 'ISO', 'Leadership', 'Product management', 'Quality']]","['Engineering Manager', 'Project Engineer II', 'Engineer I']","['City, State', 'City, State', 'City, State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,"['Management Leadership Certification', 'Six Sigma Greenbelt certification']","[None, None]","[None, None]","[None, None]","[None, None]",AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.906666667,"Experienced product development Engineer and manager able to collaborate with cross functional team as well as customers and sales to bring brand new offerings to new markets. Skilled at managing cross functional team for continuous improvements and meeting project deadlines. Offering 6 years of experience in the field. ['Microsoft Office', 'Microsoft Project', 'Product development', 'Quality', 'Research', 'Six Sigma Green Belt', 'Solid Works', 'Visio', 'Prioritization', 'Personnel management', 'Critical thinking skills', 'Team management', 'Analyst', 'Agency', 'Consulting', 'Cost analysis', 'Critical thinking', 'Designing', 'Dialysis', 'Direction', 'Develop drug', 'Functional', 'IIa', 'ISO', 'Leadership', 'Market and development', 'Design process', 'Product management', 'Researching', 'Sales', 'Six Sigma', 'Validation'] ['Temple University'] ['Bachelor of Science'] ['N/A', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",experienced product development engineer manager able collaborate cross functional team well customers sales bring brand new offerings new markets skilled managing cross functional team continuous improvements meeting project deadlines offering years experience field microsoft office microsoft project product development quality research six sigma green belt solid works visio prioritization personnel management critical thinking skills team management analyst agency consulting cost analysis critical thinking designing dialysis direction develop drug functional iia iso leadership market development design process product management researching sales six sigma validation temple university bachelor science na company name company name python r java tensorflow pytorch scikitlearn,0.948917801434027
+,Experienced product development Engineer and manager able to collaborate with cross functional team as well as customers and sales to bring brand new offerings to new markets. Skilled at managing cross functional team for continuous improvements and meeting project deadlines. Offering 6 years of experience in the field.,"['Microsoft Office', 'Microsoft Project', 'Product development', 'Quality', 'Research', 'Six Sigma Green Belt', 'Solid Works', 'Visio', 'Prioritization', 'Personnel management', 'Critical thinking skills', 'Team management', 'Analyst', 'Agency', 'Consulting', 'Cost analysis', 'Critical thinking', 'Designing', 'Dialysis', 'Direction', 'Develop drug', 'Functional', 'IIa', 'ISO', 'Leadership', 'Market and development', 'Design process', 'Product management', 'Researching', 'Sales', 'Six Sigma', 'Validation']",['Temple University'],['Bachelor of Science'],['05/2013'],['N/A'],['N/A'],['Mechanical Engineering'],"['N/A', 'Company Name', 'Company Name']","[None, None, None]","['03/2018', '03/2017', '06/2013']","['Current', '03/2018', '03/2017']","[['Team management', 'Personnel management', 'Quality', 'Product development', 'Research', 'ISO', 'Leadership'], ['Design process', 'Validation', 'Solid Works', 'ISO', 'Product management', 'Quality', 'Research'], ['Design process', 'Validation', 'Research', 'ISO', 'Leadership', 'Product management', 'Quality']]","['Engineering Manager', 'Project Engineer II', 'Engineer I']","['City, State', 'City, State', 'City, State']","Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,,,,,,"['Management Leadership Certification', 'Six Sigma Greenbelt certification']","[None, None]","[None, None]","[None, None]","[None, None]",Intern (Generative AI Engineering - 2D/3D Image Generation),Bachelor of Science (BSc),,Age 20 to 35 years,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,0.936666667,"Experienced product development Engineer and manager able to collaborate with cross functional team as well as customers and sales to bring brand new offerings to new markets. Skilled at managing cross functional team for continuous improvements and meeting project deadlines. Offering 6 years of experience in the field. ['Microsoft Office', 'Microsoft Project', 'Product development', 'Quality', 'Research', 'Six Sigma Green Belt', 'Solid Works', 'Visio', 'Prioritization', 'Personnel management', 'Critical thinking skills', 'Team management', 'Analyst', 'Agency', 'Consulting', 'Cost analysis', 'Critical thinking', 'Designing', 'Dialysis', 'Direction', 'Develop drug', 'Functional', 'IIa', 'ISO', 'Leadership', 'Market and development', 'Design process', 'Product management', 'Researching', 'Sales', 'Six Sigma', 'Validation'] ['Temple University'] ['Bachelor of Science'] ['N/A', 'Company Name', 'Company Name']  nan",experienced product development engineer manager able collaborate cross functional team well customers sales bring brand new offerings new markets skilled managing cross functional team continuous improvements meeting project deadlines offering years experience field microsoft office microsoft project product development quality research six sigma green belt solid works visio prioritization personnel management critical thinking skills team management analyst agency consulting cost analysis critical thinking designing dialysis direction develop drug functional iia iso leadership market development design process product management researching sales six sigma validation temple university bachelor science na company name company name nan,0.939152176434027
+,My main objective in seeking employment with Triumph Actuation Systems Inc. is to work in a professional atmosphere where I can utilize my skills and continue to gain experience in the aerospace industry to advance in my career.,"['DasyLab', 'Labview', 'Mechanical', 'Electrical', 'Lean/5S', 'Hydraulic Testing', 'Test Stand Fabrication']","['Forsyth Technical Community College', 'Community College of the Air Force']","['Associates', 'Associates']","['2011', '2007']","[None, None]","[None, None]","['Applied Science Electronics Engineering', 'Applied Science, Munitions Systems Technology']","['Company Name', 'Company Name', 'Company Name', 'Company Name']","[None, None, None, None]","['Oct 2016', 'Apr 2012', 'Mar 2007', 'Mar 2003']","['Current', 'Oct 2016', 'Mar 2012', 'Mar 2007']","[['Mechanical', 'Hydraulic Testing'], ['Labview', 'Electrical', 'Mechanical', 'Hydraulic Testing'], ['Mechanical', 'Hydraulic Testing'], ['Mechanical', 'Electrical']]","['Engineering Lab Technician', 'Engineering Lab Technician, Sr. Specialist', 'Assembly/ Test Technician', 'Munitions Systems Journeyman']","['City , State', 'City , State', 'City , State', 'City , State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.816666667,"My main objective in seeking employment with Triumph Actuation Systems Inc. is to work in a professional atmosphere where I can utilize my skills and continue to gain experience in the aerospace industry to advance in my career. ['DasyLab', 'Labview', 'Mechanical', 'Electrical', 'Lean/5S', 'Hydraulic Testing', 'Test Stand Fabrication'] ['Forsyth Technical Community College', 'Community College of the Air Force'] ['Associates', 'Associates'] ['Company Name', 'Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",main objective seeking employment triumph actuation systems inc work professional atmosphere utilize skills continue gain experience aerospace industry advance career dasylab labview mechanical electrical leans hydraulic testing test stand fabrication forsyth technical community college community college air force associates associates company name company name company name company name python r java tensorflow pytorch scikitlearn,0.935612137371527
+,,"['Skill 1', 'Skill 3', 'Skill 5', 'Skill 2', 'Skill 4', 'Skill 6']",['Southeastern Louisiana University'],['Bachelor of Science /Arts'],['Month and Year Received/Expected'],['X.XX'],['GPA'],['Name of Major'],,,,,,,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.75,"nan ['Skill 1', 'Skill 3', 'Skill 5', 'Skill 2', 'Skill 4', 'Skill 6'] ['Southeastern Louisiana University'] ['Bachelor of Science /Arts'] nan  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",nan skill skill skill skill skill skill southeastern louisiana university bachelor science arts nan python r java tensorflow pytorch scikitlearn,0.922062332684027
+,"To secure an IT specialist, desktop support, network administration, database administrator, technical support specialist or related position with a growing organization where my Microsoft certification, technical aptitude, networking, Windows and Mac OS, Apple and Android IOS, web development, application development, Linux, Microsoft applications, managing, testing, client support, help desk, technical support, troubleshooting, and leadership skills can benefit those who I work for as well as myself.","['Microsoft Applications', 'Network Security', 'Networking', 'PC hardware and software installation, configuration, and troubleshooting', 'Remote Desktop and Help Desk Management', 'Verbal Communication', 'Technical Support', 'Team Leadership', 'Programming Languages', 'On-call tech support', 'Windows & Mac OS', 'Wiring/Wire Spicing: Cat3, Cat5, Cat5e, Coaxial', 'Management', 'VoIP, TCP/IP, IPSec, ATM, SS7, IPX, DNS, BIND, DHCP, HSRP and LAN/WAN architecture', 'Application Development', 'Voice Over IP Telephone', 'Inventory Management']","['Glen Oaks High School', 'Glen Oaks High School']","['Bachelor Degree', 'Associate Degree']","[None, None]","[None, None]","[None, None]","['Electronics and Communications Engineering Technology', 'Software Development']","['N/A', 'Company Name', 'Company Name']","[None, None, None]","['August 2006', 'August 2013', 'July 2014']","['January 2013', 'September 2014', 'Current']","[['Microsoft Applications', 'Windows Applications', 'Mac OS and IOS', 'Network routers', 'Cisco ASA firewall', 'Juniper Net-screen', 'LANs, WANs', 'Cloud Experience'], ['Microsoft applications', 'Windows and Mac OS', 'Linux', 'Web Development'], ['Customer Support', 'Technical Support', 'Network Administration', 'Inventory Management']]","['Engineering Systems Installer', 'IT Technician/QA Tester', 'Installation/Service Technician']","['City, State', 'City, State', 'N/A']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,['Microsoft Certification'],[None],[None],['May 2013'],[None],AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.85,"To secure an IT specialist, desktop support, network administration, database administrator, technical support specialist or related position with a growing organization where my Microsoft certification, technical aptitude, networking, Windows and Mac OS, Apple and Android IOS, web development, application development, Linux, Microsoft applications, managing, testing, client support, help desk, technical support, troubleshooting, and leadership skills can benefit those who I work for as well as myself. ['Microsoft Applications', 'Network Security', 'Networking', 'PC hardware and software installation, configuration, and troubleshooting', 'Remote Desktop and Help Desk Management', 'Verbal Communication', 'Technical Support', 'Team Leadership', 'Programming Languages', 'On-call tech support', 'Windows & Mac OS', 'Wiring/Wire Spicing: Cat3, Cat5, Cat5e, Coaxial', 'Management', 'VoIP, TCP/IP, IPSec, ATM, SS7, IPX, DNS, BIND, DHCP, HSRP and LAN/WAN architecture', 'Application Development', 'Voice Over IP Telephone', 'Inventory Management'] ['Glen Oaks High School', 'Glen Oaks High School'] ['Bachelor Degree', 'Associate Degree'] ['N/A', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",secure specialist desktop support network administration database administrator technical support specialist related position growing organization microsoft certification technical aptitude networking windows mac os apple android ios web development application development linux microsoft applications managing testing client support help desk technical support troubleshooting leadership skills benefit work well microsoft applications network security networking pc hardware software installation configuration troubleshooting remote desktop help desk management verbal communication technical support team leadership programming languages oncall tech support windows mac os wiringwire spicing cat cat cate coaxial management voip tcpip ipsec atm ss ipx dns bind dhcp hsrp lanwan architecture application development voice ip telephone inventory management glen oaks high school glen oaks high school bachelor degree associate degree na company name company name python r java tensorflow pytorch scikitlearn,0.921451981121527
+,My main objective in seeking employment with Triumph Actuation Systems Inc. is to work in a professional atmosphere where I can utilize my skills and continue to gain experience in the aerospace industry to advance in my career.,"['DasyLab', 'Labview', 'Mechanical', 'Electrical', 'Lean/5S', 'Hydraulic Testing', 'Test Stand Fabrication']","['Forsyth Technical Community College', 'Community College of the Air Force']","['Associates', 'Associates']","['2011', '2007']","[None, None]","[None, None]","['Applied Science Electronics Engineering', 'Applied Science, Munitions Systems Technology']","['Company Name', 'Company Name', 'Company Name', 'Company Name']","[None, None, None, None]","['Oct 2016', 'Apr 2012', 'Mar 2007', 'Mar 2003']","['Current', 'Oct 2016', 'Mar 2012', 'Mar 2007']","[['Mechanical', 'Hydraulic Testing'], ['Labview', 'Electrical', 'Mechanical', 'Hydraulic Testing'], ['Mechanical', 'Hydraulic Testing'], ['Mechanical', 'Electrical']]","['Engineering Lab Technician', 'Engineering Lab Technician, Sr. Specialist', 'Assembly/ Test Technician', 'Munitions Systems Journeyman']","['City , State', 'City , State', 'City , State', 'City , State']","Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,,,,,,,,,,,Intern (Generative AI Engineering - 2D/3D Image Generation),Bachelor of Science (BSc),,Age 20 to 35 years,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,0.85,"My main objective in seeking employment with Triumph Actuation Systems Inc. is to work in a professional atmosphere where I can utilize my skills and continue to gain experience in the aerospace industry to advance in my career. ['DasyLab', 'Labview', 'Mechanical', 'Electrical', 'Lean/5S', 'Hydraulic Testing', 'Test Stand Fabrication'] ['Forsyth Technical Community College', 'Community College of the Air Force'] ['Associates', 'Associates'] ['Company Name', 'Company Name', 'Company Name', 'Company Name']  nan",main objective seeking employment triumph actuation systems inc work professional atmosphere utilize skills continue gain experience aerospace industry advance career dasylab labview mechanical electrical leans hydraulic testing test stand fabrication forsyth technical community college community college air force associates associates company name company name company name company name nan,0.918980057293402
+,"Innovative programmer with analytical problem-solving skills and 2-year IT internship experience. Demonstrated proficiency in diverse computer programs, including SMS/SQL, Ethernet, VPN, SSH, VoIP, HTML, PHP, ASP, and XML. Looking to design technical initiatives and automate solutions for organizational efficiency, productivity, and profitability.","['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking']",['Brown University'],['Bachelor of Science'],['2020'],['3.8'],['GPA'],"['Computer Science, Cybersecurity']","['Security Benefit', 'Textron Inc.']","[None, None]","['Nov 2019', 'Dec 2018']","['May 2020', 'Jun 2019']","[['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking'], ['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking']]","['Information Technology Support', 'Information Technology Intern']","['N/A', 'N/A']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.883333333,"Innovative programmer with analytical problem-solving skills and 2-year IT internship experience. Demonstrated proficiency in diverse computer programs, including SMS/SQL, Ethernet, VPN, SSH, VoIP, HTML, PHP, ASP, and XML. Looking to design technical initiatives and automate solutions for organizational efficiency, productivity, and profitability. ['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking'] ['Brown University'] ['Bachelor of Science'] ['Security Benefit', 'Textron Inc.']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",innovative programmer analytical problemsolving skills year internship experience demonstrated proficiency diverse computer programs including smssql ethernet vpn ssh voip html php asp xml looking design technical initiatives automate solutions organizational efficiency productivity profitability ware development information technology complex problem solving analytical thinking brown university bachelor science security benefit textron inc python r java tensorflow pytorch scikitlearn,0.913517410809027
+,"To secure an IT specialist, desktop support, network administration, database administrator, technical support specialist or related position with a growing organization where my Microsoft certification, technical aptitude, networking, Windows and Mac OS, Apple and Android IOS, web development, application development, Linux, Microsoft applications, managing, testing, client support, help desk, technical support, troubleshooting, and leadership skills can benefit those who I work for as well as myself.","['Microsoft Applications', 'Network Security', 'Networking', 'PC hardware and software installation, configuration, and troubleshooting', 'Remote Desktop and Help Desk Management', 'Verbal Communication', 'Technical Support', 'Team Leadership', 'Programming Languages', 'On-call tech support', 'Windows & Mac OS', 'Wiring/Wire Spicing: Cat3, Cat5, Cat5e, Coaxial', 'Management', 'VoIP, TCP/IP, IPSec, ATM, SS7, IPX, DNS, BIND, DHCP, HSRP and LAN/WAN architecture', 'Application Development', 'Voice Over IP Telephone', 'Inventory Management']","['Glen Oaks High School', 'Glen Oaks High School']","['Bachelor Degree', 'Associate Degree']","[None, None]","[None, None]","[None, None]","['Electronics and Communications Engineering Technology', 'Software Development']","['N/A', 'Company Name', 'Company Name']","[None, None, None]","['August 2006', 'August 2013', 'July 2014']","['January 2013', 'September 2014', 'Current']","[['Microsoft Applications', 'Windows Applications', 'Mac OS and IOS', 'Network routers', 'Cisco ASA firewall', 'Juniper Net-screen', 'LANs, WANs', 'Cloud Experience'], ['Microsoft applications', 'Windows and Mac OS', 'Linux', 'Web Development'], ['Customer Support', 'Technical Support', 'Network Administration', 'Inventory Management']]","['Engineering Systems Installer', 'IT Technician/QA Tester', 'Installation/Service Technician']","['City, State', 'City, State', 'N/A']","Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,,,,,,['Microsoft Certification'],[None],[None],['May 2013'],[None],Intern (Generative AI Engineering - 2D/3D Image Generation),Bachelor of Science (BSc),,Age 20 to 35 years,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,0.85,"To secure an IT specialist, desktop support, network administration, database administrator, technical support specialist or related position with a growing organization where my Microsoft certification, technical aptitude, networking, Windows and Mac OS, Apple and Android IOS, web development, application development, Linux, Microsoft applications, managing, testing, client support, help desk, technical support, troubleshooting, and leadership skills can benefit those who I work for as well as myself. ['Microsoft Applications', 'Network Security', 'Networking', 'PC hardware and software installation, configuration, and troubleshooting', 'Remote Desktop and Help Desk Management', 'Verbal Communication', 'Technical Support', 'Team Leadership', 'Programming Languages', 'On-call tech support', 'Windows & Mac OS', 'Wiring/Wire Spicing: Cat3, Cat5, Cat5e, Coaxial', 'Management', 'VoIP, TCP/IP, IPSec, ATM, SS7, IPX, DNS, BIND, DHCP, HSRP and LAN/WAN architecture', 'Application Development', 'Voice Over IP Telephone', 'Inventory Management'] ['Glen Oaks High School', 'Glen Oaks High School'] ['Bachelor Degree', 'Associate Degree'] ['N/A', 'Company Name', 'Company Name']  nan",secure specialist desktop support network administration database administrator technical support specialist related position growing organization microsoft certification technical aptitude networking windows mac os apple android ios web development application development linux microsoft applications managing testing client support help desk technical support troubleshooting leadership skills benefit work well microsoft applications network security networking pc hardware software installation configuration troubleshooting remote desktop help desk management verbal communication technical support team leadership programming languages oncall tech support windows mac os wiringwire spicing cat cat cate coaxial management voip tcpip ipsec atm ss ipx dns bind dhcp hsrp lanwan architecture application development voice ip telephone inventory management glen oaks high school glen oaks high school bachelor degree associate degree na company name company name nan,0.912662918621527
+,,"['budget', 'hardware', 'network systems', 'database', 'Dec', 'documentation', 'inspection', 'logistics', 'meetings', 'MS Excel', 'Microsoft Office', 'Outlook', 'PowerPoint', 'network', 'networking', 'Operating Systems', 'Oracle', 'personnel', 'presentations', 'progress', 'quality', 'Maintain documentation', 'routers', 'safety', 'scheduling', 'shipping', 'spreadsheets', 'supervision']",['University of Phoenix Texas'],['Business Administration'],['2019'],['N/A'],['N/A'],['Business Administration'],"['Company Name', 'Company Name', 'Company Name', 'Company Name']","['N/A', 'N/A', 'N/A', 'N/A']","['01/2014', '12/2012', '01/2011', '07/2004']","['Current', None, '12/2013', '12/2010']","[['MS Excel', 'PowerPoint', 'Oracle'], ['networking'], ['documentation', 'shipping', 'production'], ['Microsoft Office', 'database', 'network systems', 'production']]","['Engineering Technician', 'Consultant', 'Engineering Technician', 'Manufacturing Lead']","['City, State', 'City, State', 'City, State', 'City, State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.716666667,"nan ['budget', 'hardware', 'network systems', 'database', 'Dec', 'documentation', 'inspection', 'logistics', 'meetings', 'MS Excel', 'Microsoft Office', 'Outlook', 'PowerPoint', 'network', 'networking', 'Operating Systems', 'Oracle', 'personnel', 'presentations', 'progress', 'quality', 'Maintain documentation', 'routers', 'safety', 'scheduling', 'shipping', 'spreadsheets', 'supervision'] ['University of Phoenix Texas'] ['Business Administration'] ['Company Name', 'Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",nan budget hardware network systems database dec documentation inspection logistics meetings ms excel microsoft office outlook powerpoint network networking operating systems oracle personnel presentations progress quality maintain documentation routers safety scheduling shipping spreadsheets supervision university phoenix texas business administration company name company name company name company name python r java tensorflow pytorch scikitlearn,0.906864578777777
+,"Committed and motivated professional with exceptional customer service and decision making skills. Extensive experience working with a diverse client base and delivering results. High-achieving professional possessing excellent communication, organizational and analytical capabilities. Background in business development, customer service and project management.","['Problem resolution', 'Results-oriented', 'Meticulous attention to detail', 'Managing multiple priorities', 'Active Learning', 'Client Relations', 'Computer Proficiency', 'Creative Problem Solving', 'Critical Thinking', 'Data Collection', 'Data Entry', 'Documentation', 'Email', 'Executive Management Support', 'Filing', 'Internet Research', 'Letters and Memos', 'Minute Taking', 'Multi-Task Management', 'Organizational Skills', 'Research', 'Scheduling', 'Service Orientation', 'Speaking', 'Spreadsheets', 'Travel Arrangements']","['Denver High School', 'Front Range Community College']","['High School Diploma', None]","['1996', None]","[None, None]","[None, None]","[None, 'General Studies']","['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']","[None, None, None, None, None, None]","['February 2015', 'November 2014', 'November 2012', 'April 2012', 'April 2011', 'September 2006']","['September 2015', 'February 2015', 'January 2014', 'November 2012', 'December 2011', 'December 2011']","[None, None, None, ['Microsoft Office proficiency', 'Customer relations specialist', 'Employee training and development'], None, None]","['Business Development', 'Service Manager', 'System Technology Specialist', 'Project Manager', 'Support Manager', 'Project Administrator']","['City , State', 'City , State', 'City , State', 'City , State', 'City , State', 'City , State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.85,"Committed and motivated professional with exceptional customer service and decision making skills. Extensive experience working with a diverse client base and delivering results. High-achieving professional possessing excellent communication, organizational and analytical capabilities. Background in business development, customer service and project management. ['Problem resolution', 'Results-oriented', 'Meticulous attention to detail', 'Managing multiple priorities', 'Active Learning', 'Client Relations', 'Computer Proficiency', 'Creative Problem Solving', 'Critical Thinking', 'Data Collection', 'Data Entry', 'Documentation', 'Email', 'Executive Management Support', 'Filing', 'Internet Research', 'Letters and Memos', 'Minute Taking', 'Multi-Task Management', 'Organizational Skills', 'Research', 'Scheduling', 'Service Orientation', 'Speaking', 'Spreadsheets', 'Travel Arrangements'] ['Denver High School', 'Front Range Community College'] ['High School Diploma', None] ['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",committed motivated professional exceptional customer service decision making skills extensive experience working diverse client base delivering results highachieving professional possessing excellent communication organizational analytical capabilities background business development customer service project management problem resolution resultsoriented meticulous attention detail managing multiple priorities active learning client relations computer proficiency creative problem solving critical thinking data collection data entry documentation email executive management support filing internet research letters memos minute taking multitask management organizational skills research scheduling service orientation speaking spreadsheets travel arrangements denver high school front range community college high school diploma none company name company name company name company name company name company name python r java tensorflow pytorch scikitlearn,0.903019363934027
+,,"['Skill 1', 'Skill 3', 'Skill 5', 'Skill 2', 'Skill 4', 'Skill 6']",['Southeastern Louisiana University'],['Bachelor of Science /Arts'],['Month and Year Received/Expected'],['X.XX'],['GPA'],['Name of Major'],,,,,,,,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,,,,,,,,,,,Intern (Generative AI Engineering - 2D/3D Image Generation),Bachelor of Science (BSc),,Age 20 to 35 years,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,0.783333333,"nan ['Skill 1', 'Skill 3', 'Skill 5', 'Skill 2', 'Skill 4', 'Skill 6'] ['Southeastern Louisiana University'] ['Bachelor of Science /Arts'] nan  nan",nan skill skill skill skill skill skill southeastern louisiana university bachelor science arts nan nan,0.899723465496527
+,"Innovative programmer with analytical problem-solving skills and 2-year IT internship experience. Demonstrated proficiency in diverse computer programs, including SMS/SQL, Ethernet, VPN, SSH, VoIP, HTML, PHP, ASP, and XML. Looking to design technical initiatives and automate solutions for organizational efficiency, productivity, and profitability.","['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking']",['Brown University'],['Bachelor of Science'],['2020'],['3.8'],['GPA'],"['Computer Science, Cybersecurity']","['Security Benefit', 'Textron Inc.']","[None, None]","['Nov 2019', 'Dec 2018']","['May 2020', 'Jun 2019']","[['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking'], ['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking']]","['Information Technology Support', 'Information Technology Intern']","['N/A', 'N/A']","Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,,,,,,,,,,,Intern (Generative AI Engineering - 2D/3D Image Generation),Bachelor of Science (BSc),,Age 20 to 35 years,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,0.88,"Innovative programmer with analytical problem-solving skills and 2-year IT internship experience. Demonstrated proficiency in diverse computer programs, including SMS/SQL, Ethernet, VPN, SSH, VoIP, HTML, PHP, ASP, and XML. Looking to design technical initiatives and automate solutions for organizational efficiency, productivity, and profitability. ['So ware Development', 'Information Technology', 'Complex Problem Solving', 'Analytical Thinking'] ['Brown University'] ['Bachelor of Science'] ['Security Benefit', 'Textron Inc.']  nan",innovative programmer analytical problemsolving skills year internship experience demonstrated proficiency diverse computer programs including smssql ethernet vpn ssh voip html php asp xml looking design technical initiatives automate solutions organizational efficiency productivity profitability ware development information technology complex problem solving analytical thinking brown university bachelor science security benefit textron inc nan,0.895451004559027
+,,"['Business systems analysis', 'Project management', 'Business process improvement', 'Forecasting and planning', 'Requirements gathering', 'Scope and project definition', 'Technology architecture analysis', 'Integrated Reporting Information System (IRIS)', 'Portfolio management', 'Budgeting', 'Cost-benefit analysis', 'Functional requirements', 'Requirement tracing', 'Business Analysis', 'Account management', 'Accounting', 'Big Data', 'Business Administration', 'Business Consulting', 'Business Development', 'Business Solutions', 'Business Systems', 'Customer Relationship Management', 'Client Relations Development', 'Database', 'Direct Marketing', 'Finance', 'Information Technology', 'Law', 'Leadership', 'Director', 'Marketing', 'Market Evaluation', 'Messaging', 'Enterprise', 'Network', 'Organizational', 'Performance Reviews', 'Performance management', 'Policies', 'Processes', 'Proposals', 'Proposal Writing', 'Speaking', 'Professor', 'Quality', 'Recruitment', 'Relationship Building', 'Risk Management', 'Selling', 'Sales', 'Scheme', 'Strategic Plans', 'Supply Chain Management', 'Tables', 'Underwriting']","['UNIVERSITY OF PHOENIX', 'TIFFIN UNIVERSITY', 'MYERS UNIVERSITY']","['Master of Science', 'Master of Science', 'Bachelor of Science']","['2017', '2003', '1997']","[None, None, None]","[None, None, None]","['Information Systems-Graduate Business Analytic Certificate', 'Criminal Justice', 'Public Administration']","['Company Name', 'Company Name', 'Company Name', 'Company Name']","[None, None, None, None]","['January 2006', 'January 1998', 'January 1996', 'January 1990']","['June 2016', 'January 2005', 'January 1998', 'January 1996']","[['Business systems analysis', 'Project management', 'Business process improvement', 'Requirements gathering', 'Scope and project definition', 'Forecasting and planning', 'Integrated Reporting Information System (IRIS)', 'Portfolio management', 'Budgeting', 'Cost-benefit analysis'], ['Business systems analysis', 'Project management', 'Business process improvement', 'Requirements gathering', 'Scope and project definition', 'Forecasting and planning', 'Integrated Reporting Information System (IRIS)', 'Portfolio management', 'Budgeting', 'Cost-benefit analysis'], ['Business systems analysis', 'Project management', 'Business process improvement', 'Requirements gathering', 'Scope and project definition', 'Forecasting and planning', 'Integrated Reporting Information System (IRIS)', 'Portfolio management', 'Budgeting', 'Cost-benefit analysis'], ['Business systems analysis', 'Project management', 'Business process improvement', 'Requirements gathering', 'Scope and project definition', 'Forecasting and planning', 'Integrated Reporting Information System (IRIS)', 'Portfolio management', 'Budgeting', 'Cost-benefit analysis']]","['Business Development Analyst', 'Business Enterprise Risk Manager', 'Business Client Relationship Manager', 'Project Manager']","['City , State', 'City , State', 'City , State', 'City , State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,['N/A'],[None],[None],[None],[None],AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.85,"nan ['Business systems analysis', 'Project management', 'Business process improvement', 'Forecasting and planning', 'Requirements gathering', 'Scope and project definition', 'Technology architecture analysis', 'Integrated Reporting Information System (IRIS)', 'Portfolio management', 'Budgeting', 'Cost-benefit analysis', 'Functional requirements', 'Requirement tracing', 'Business Analysis', 'Account management', 'Accounting', 'Big Data', 'Business Administration', 'Business Consulting', 'Business Development', 'Business Solutions', 'Business Systems', 'Customer Relationship Management', 'Client Relations Development', 'Database', 'Direct Marketing', 'Finance', 'Information Technology', 'Law', 'Leadership', 'Director', 'Marketing', 'Market Evaluation', 'Messaging', 'Enterprise', 'Network', 'Organizational', 'Performance Reviews', 'Performance management', 'Policies', 'Processes', 'Proposals', 'Proposal Writing', 'Speaking', 'Professor', 'Quality', 'Recruitment', 'Relationship Building', 'Risk Management', 'Selling', 'Sales', 'Scheme', 'Strategic Plans', 'Supply Chain Management', 'Tables', 'Underwriting'] ['UNIVERSITY OF PHOENIX', 'TIFFIN UNIVERSITY', 'MYERS UNIVERSITY'] ['Master of Science', 'Master of Science', 'Bachelor of Science'] ['Company Name', 'Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",nan business systems analysis project management business process improvement forecasting planning requirements gathering scope project definition technology architecture analysis integrated reporting information system iris portfolio management budgeting costbenefit analysis functional requirements requirement tracing business analysis account management accounting big data business administration business consulting business development business solutions business systems customer relationship management client relations development database direct marketing finance information technology law leadership director marketing market evaluation messaging enterprise network organizational performance reviews performance management policies processes proposals proposal writing speaking professor quality recruitment relationship building risk management selling sales scheme strategic plans supply chain management tables underwriting university phoenix tiffin university myers university master science master science bachelor science company name company name company name company name python r java tensorflow pytorch scikitlearn,0.892521317059027
+,"Committed and motivated professional with exceptional customer service and decision making skills. Extensive experience working with a diverse client base and delivering results. High-achieving professional possessing excellent communication, organizational and analytical capabilities. Background in business development, customer service and project management.","['Problem resolution', 'Results-oriented', 'Meticulous attention to detail', 'Managing multiple priorities', 'Active Learning', 'Client Relations', 'Computer Proficiency', 'Creative Problem Solving', 'Critical Thinking', 'Data Collection', 'Data Entry', 'Documentation', 'Email', 'Executive Management Support', 'Filing', 'Internet Research', 'Letters and Memos', 'Minute Taking', 'Multi-Task Management', 'Organizational Skills', 'Research', 'Scheduling', 'Service Orientation', 'Speaking', 'Spreadsheets', 'Travel Arrangements']","['Denver High School', 'Front Range Community College']","['High School Diploma', None]","['1996', None]","[None, None]","[None, None]","[None, 'General Studies']","['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']","[None, None, None, None, None, None]","['February 2015', 'November 2014', 'November 2012', 'April 2012', 'April 2011', 'September 2006']","['September 2015', 'February 2015', 'January 2014', 'November 2012', 'December 2011', 'December 2011']","[None, None, None, ['Microsoft Office proficiency', 'Customer relations specialist', 'Employee training and development'], None, None]","['Business Development', 'Service Manager', 'System Technology Specialist', 'Project Manager', 'Support Manager', 'Project Administrator']","['City , State', 'City , State', 'City , State', 'City , State', 'City , State', 'City , State']","Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,,,,,,,,,,,Intern (Generative AI Engineering - 2D/3D Image Generation),Bachelor of Science (BSc),,Age 20 to 35 years,"Generative AI Development
+Evolutionary Computation
+Deep Learning Optimization
+Expert Systems Design
+Knowledge Representation
+Data Preprocessing
+Model Training
+Research & Integration",,0.7933333333333333,"Committed and motivated professional with exceptional customer service and decision making skills. Extensive experience working with a diverse client base and delivering results. High-achieving professional possessing excellent communication, organizational and analytical capabilities. Background in business development, customer service and project management. ['Problem resolution', 'Results-oriented', 'Meticulous attention to detail', 'Managing multiple priorities', 'Active Learning', 'Client Relations', 'Computer Proficiency', 'Creative Problem Solving', 'Critical Thinking', 'Data Collection', 'Data Entry', 'Documentation', 'Email', 'Executive Management Support', 'Filing', 'Internet Research', 'Letters and Memos', 'Minute Taking', 'Multi-Task Management', 'Organizational Skills', 'Research', 'Scheduling', 'Service Orientation', 'Speaking', 'Spreadsheets', 'Travel Arrangements'] ['Denver High School', 'Front Range Community College'] ['High School Diploma', None] ['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']  nan",committed motivated professional exceptional customer service decision making skills extensive experience working diverse client base delivering results highachieving professional possessing excellent communication organizational analytical capabilities background business development customer service project management problem resolution resultsoriented meticulous attention detail managing multiple priorities active learning client relations computer proficiency creative problem solving critical thinking data collection data entry documentation email executive management support filing internet research letters memos minute taking multitask management organizational skills research scheduling service orientation speaking spreadsheets travel arrangements denver high school front range community college high school diploma none company name company name company name company name company name company name nan,0.891056473309027
+,Seeking for full time position where I can apply my technical knowledge & skills for continuous improvement.,"['MS Office', 'Minitab', 'PowerPoint', 'Excel', 'Solid works', 'AutoCAD', 'Pro E', 'MS Access', 'SAP', 'Java', 'C', 'C++', 'Visual Basic', 'R', 'Python', 'AutoCAD', 'C', 'C++', 'Calibration', 'charts', 'data analysis', 'Database', 'designing', 'documentation', 'Forecasting', 'IMS', 'inspection', 'inventory', 'ISO', 'ISO 9001', 'Java', 'Lean Manufacturing', 'MS Access', 'Excel', 'MS Office', 'PowerPoint', 'Minitab', 'process improvement', 'Programming', 'Python', 'quality', 'safety', 'SAP', 'SAP R/3', 'Scheduling', 'Siemens', 'Solid works', 'SOP', 'Strategy/planning', 'supervising 4', 'Visual Basic', 'reduce waste']","['University of Texas', 'Mumbai University']","['Masters of Science', 'Bachelor of Engineering']","['May 2016', 'July 2013']","['3.5', '3.5']","['GPA', 'GPA']","['Industrial Engineering Production & Inventory management', 'Production Engineering Manufacturing, Planning and Supply Chain']","['Company Name', 'Company Name', 'Company Name']","[None, None, None]","['May 2015', 'July 2013', 'November 2012']","['January 2016', 'June 2014', 'May 2013']","[['Time Study', 'Lean manufacturing', 'Kaizen', '5S', 'Kanban card process', 'Continues Improvement', 'Ergonomic designing'], ['assembly line management', 'Lean Manufacturing Practices', 'Forecasting', 'safety management'], ['inspection process', 'AutoCAD', 'ProE', 'Gauge Calibration', 'SAP R/3', 'ISO 9001:2008', 'ISO 14001(EMS)', 'IMS', 'HIRA']]","['Industrial Engineering Intern', 'Junior Engineer', 'Intern']","['City, State', 'City', 'City']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.816666667,"Seeking for full time position where I can apply my technical knowledge & skills for continuous improvement. ['MS Office', 'Minitab', 'PowerPoint', 'Excel', 'Solid works', 'AutoCAD', 'Pro E', 'MS Access', 'SAP', 'Java', 'C', 'C++', 'Visual Basic', 'R', 'Python', 'AutoCAD', 'C', 'C++', 'Calibration', 'charts', 'data analysis', 'Database', 'designing', 'documentation', 'Forecasting', 'IMS', 'inspection', 'inventory', 'ISO', 'ISO 9001', 'Java', 'Lean Manufacturing', 'MS Access', 'Excel', 'MS Office', 'PowerPoint', 'Minitab', 'process improvement', 'Programming', 'Python', 'quality', 'safety', 'SAP', 'SAP R/3', 'Scheduling', 'Siemens', 'Solid works', 'SOP', 'Strategy/planning', 'supervising 4', 'Visual Basic', 'reduce waste'] ['University of Texas', 'Mumbai University'] ['Masters of Science', 'Bachelor of Engineering'] ['Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",seeking full time position apply technical knowledge skills continuous improvement ms office minitab powerpoint excel solid works autocad pro e ms access sap java c c visual basic r python autocad c c calibration charts data analysis database designing documentation forecasting ims inspection inventory iso iso java lean manufacturing ms access excel ms office powerpoint minitab process improvement programming python quality safety sap sap r scheduling siemens solid works sop strategyplanning supervising visual basic reduce waste university texas mumbai university masters science bachelor engineering company name company name company name python r java tensorflow pytorch scikitlearn,0.889957840496527
+,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Company's Mission Statement. All while engaging in new challenges and learning experiences.","['Material Management', 'Law Enforcement', 'mechanical test equipment', ""PC's"", 'MS Office', '10key by touch', 'Customer Service', 'Forklift and Crane Certification', 'Self-motivation', 'Leadership', 'NDT Level II', 'mechanical theory', 'pneumatic and hydraulic theory', 'automation', 'closing', 'coaching', 'oral', 'hardware', 'customer support', 'designing', 'direction', 'hand tools', 'inventory', 'ISO 9001', 'Machinery', 'materials', 'mechanical', 'personnel', 'processes', 'Procurement', 'programming', 'progress', 'quality', 'Quality Control', 'Receiving', 'repairs', 'repairing', 'research', 'robotic systems', 'safety', 'scheduling', 'shipping', 'simulation', 'Supervisor', 'Test Equipment', 'Troubleshooting', 'written', 'articles']","['Monterey Peninsula College', 'San Francisco Police Academy']","['General Courses', 'Technical Diploma']","[None, None]","[None, None]","[None, None]","[None, None]","['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']","[None, None, None, None, None, None]","['05/2014', '04/2013', '11/2007', '10/2006', '11/2004', '07/2001']","[None, '05/2014', '06/2012', '11/2007', '05/2006', '02/2004']","[['designing', 'simulation', 'implementation', 'commission', 'programming', 'troubleshooting', 'maintenance', 'automation', 'electrical systems', 'direction', 'coaching', 'organization', 'communication', 'safety', 'technical problem solving', 'supervision', 'inventory management'], ['repair services', 'customer support', 'equipment installation', 'fire alarm systems', 'preventive maintenance'], ['facility operation', 'machinery maintenance', 'testing equipment', 'wind tunnels', 'mechanical modification', 'installation', 'system inspection', 'report generation'], ['logistics coordination', 'equipment maintenance', 'troubleshooting', 'inventory management', 'compliance'], ['materials expediting', 'configuration verification', 'problem solving', 'auditing', 'promis software', 'logistics'], ['production planning', 'materials management', 'schedule management', 'order management', 'communication']]","['Equipment Engineering Technician', 'Mechanical Technician', 'Operating Engineer / Test Technician', 'Logistics Coordinator / Sr. Lab Technician', 'Production Control Analyst', 'Material/Production Planner']","['City, State', 'City, State', 'City, State', 'City, State', 'City, State', 'City, State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.85,"To obtain a position where Teamwork, Integrity and Professionalism are a high standard in the Company's Mission Statement. All while engaging in new challenges and learning experiences. ['Material Management', 'Law Enforcement', 'mechanical test equipment', ""PC's"", 'MS Office', '10key by touch', 'Customer Service', 'Forklift and Crane Certification', 'Self-motivation', 'Leadership', 'NDT Level II', 'mechanical theory', 'pneumatic and hydraulic theory', 'automation', 'closing', 'coaching', 'oral', 'hardware', 'customer support', 'designing', 'direction', 'hand tools', 'inventory', 'ISO 9001', 'Machinery', 'materials', 'mechanical', 'personnel', 'processes', 'Procurement', 'programming', 'progress', 'quality', 'Quality Control', 'Receiving', 'repairs', 'repairing', 'research', 'robotic systems', 'safety', 'scheduling', 'shipping', 'simulation', 'Supervisor', 'Test Equipment', 'Troubleshooting', 'written', 'articles'] ['Monterey Peninsula College', 'San Francisco Police Academy'] ['General Courses', 'Technical Diploma'] ['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",obtain position teamwork integrity professionalism high standard companys mission statement engaging new challenges learning experiences material management law enforcement mechanical test equipment pcs ms office key touch customer service forklift crane certification selfmotivation leadership ndt level ii mechanical theory pneumatic hydraulic theory automation closing coaching oral hardware customer support designing direction hand tools inventory iso machinery materials mechanical personnel processes procurement programming progress quality quality control receiving repairs repairing research robotic systems safety scheduling shipping simulation supervisor test equipment troubleshooting written articles monterey peninsula college san francisco police academy general courses technical diploma company name company name company name company name company name company name python r java tensorflow pytorch scikitlearn,0.889103348309027
+,Seeking a technical position within an engineering team.,"['AutoCAD', 'C++', 'Visual Basics', 'Programmable Logic Controllers', 'Electrical Mechanical Systems', 'Instrumentation and Controls', 'Industrial Electricity', 'Engineering Economy', 'Technical Grammar Skills', 'Communication', 'Team work', 'Problem solving skills', 'Leadership']",['Middle Tennessee State University'],['Bachelor of Science'],['N/A'],['N/A'],['N/A'],['Engineering Technology Computer Engineering'],"['Company Name', 'Company Name', 'N/A']","[None, None, None]","['Jan 2015', 'Jan 2013', 'Jan 2011']","['Current', 'Jan 2015', 'Jan 2013']","[['Leadership', 'Project management', 'Team management', 'Budgeting'], ['Project management', 'Teamwork', 'Automation'], ['OEE', 'Safety solutions', 'KPI management']]","['Engineering Business Unit Leader', 'Project Engineer', 'Operations Technician']","['City, State', 'N/A', 'City, State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,,,,,,AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.85,"Seeking a technical position within an engineering team. ['AutoCAD', 'C++', 'Visual Basics', 'Programmable Logic Controllers', 'Electrical Mechanical Systems', 'Instrumentation and Controls', 'Industrial Electricity', 'Engineering Economy', 'Technical Grammar Skills', 'Communication', 'Team work', 'Problem solving skills', 'Leadership'] ['Middle Tennessee State University'] ['Bachelor of Science'] ['Company Name', 'Company Name', 'N/A']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",seeking technical position within engineering team autocad c visual basics programmable logic controllers electrical mechanical systems instrumentation controls industrial electricity engineering economy technical grammar skills communication team work problem solving skills leadership middle tennessee state university bachelor science company name company name na python r java tensorflow pytorch scikitlearn,0.888370926434027
+,To obtain a challenging career in Electronic Technology field. Extensive experience successfully testing and analyzing complex circuit packs and systems. *Takes the initiative to take on challenging problems and follows through to their resolution. *Capable of working independently or as a team player. *Worked with fiber optics receivers and transmitters since 1999.,"['Microsoft office Suite (2013)', 'Reading Schematics', 'Troubleshooting', 'Problem solving', 'Lean Manufacturing', 'Inventory', 'Government Sell-Offs', 'Critical Thinking', 'Effective Multitasking', 'Deadline Compliance', 'Works well under pressure', 'Highly responsible and reliable', 'Establishing goals and setting priorities', 'Team player', 'Initiative to work independent']","['Northern Essex', 'Hesser College']","['Associate of Science', 'Associate Degree']","['2002', '2004']","['3.7', '4.0']","['GPA', 'GPA']","['Electronic Technology Engineering computer System', 'Paralegal Studies']","['Company Name', 'Company Name', 'Company Name']","[None, None, None]","['12/2014', '07/2006', '02/1992']","['05/2015', 'Current', '11/2003']","[['Tested CWB', 'Manufacturing documentation', 'Engineering science and technology'], ['Thermal Production Line', 'Engineering science and technology', 'Blueprints analysis', 'Manufacturing documentation', 'Mathematical skills', 'Measuring instruments', 'Chemical handling', 'Leak detection systems', 'Production equipment operation', 'Calibrate and Align', 'Operational reports', 'Corrective actions', 'Communication'], ['Production support', 'Troubleshooting', 'Testing and troubleshooting', 'Training peers', 'Troubleshooting techniques', 'Advanced electronics', 'Production scheduling', 'Problem solving', 'Schematics reading', 'Microsoft Office', 'Collaboration', 'Surface mount line', 'HP test sets', 'Circuit packs']]","['Engineering Technician', 'Thermal Technician', 'Technical Support Specialists']","['City, State', 'City, State', 'City, State']","Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration",,,,,,,['N/A'],[None],[None],['N/A'],[None],AI Engineer,"Bachelors or Masters degree in Computer Science, Engineering, or a related field.",,,"Machine Learning Design
+Data Analysis
+Model Training
+AI Integration
+Innovation
+Cross-Functional Collaboration
+Model Deployment
+Documentation
+Analytical Skills
+Communication
+Team Collaboration","Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",0.85,"To obtain a challenging career in Electronic Technology field. Extensive experience successfully testing and analyzing complex circuit packs and systems. *Takes the initiative to take on challenging problems and follows through to their resolution. *Capable of working independently or as a team player. *Worked with fiber optics receivers and transmitters since 1999. ['Microsoft office Suite (2013)', 'Reading Schematics', 'Troubleshooting', 'Problem solving', 'Lean Manufacturing', 'Inventory', 'Government Sell-Offs', 'Critical Thinking', 'Effective Multitasking', 'Deadline Compliance', 'Works well under pressure', 'Highly responsible and reliable', 'Establishing goals and setting priorities', 'Team player', 'Initiative to work independent'] ['Northern Essex', 'Hesser College'] ['Associate of Science', 'Associate Degree'] ['Company Name', 'Company Name', 'Company Name']  Python
+R or Java
+TensorFlow
+PyTorch
+Scikit-learn.",obtain challenging career electronic technology field extensive experience successfully testing analyzing complex circuit packs systems takes initiative take challenging problems follows resolution capable working independently team player worked fiber optics receivers transmitters since microsoft office suite reading schematics troubleshooting problem solving lean manufacturing inventory government selloffs critical thinking effective multitasking deadline compliance works well pressure highly responsible reliable establishing goals setting priorities team player initiative work independent northern essex hesser college associate science associate degree company name company name company name python r java tensorflow pytorch scikitlearn,0.886661942059027
